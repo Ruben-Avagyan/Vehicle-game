@@ -16,6 +16,14 @@ This project is a product of my learning process and is not intended as a fully 
 
 As this project was primarily developed for educational purposes and as part of my coursework, I currently do not plan to actively maintain or expand upon it. However, I welcome any constructive feedback, suggestions, or contributions from the community.
 
+## Project Presentation
+
+You can explore a detailed presentation of the project by following this link:
+
+https://www.canva.com/design/DAFkvlp0fpQ/8uebiOcUnemxGmI7vko8Dw/edit?utm_content=DAFkvlp0fpQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+The presentation includes additional materials, images, and information about the project.
+
 ## Contact
 
 Email: ruboavag@gmail.com
